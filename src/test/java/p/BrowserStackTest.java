@@ -34,7 +34,7 @@ public class BrowserStackTest {
 	public void titleTest() {
 
 		String url = driver.getCurrentUrl();
-		System.out.println(url);
+		System.out.println(url+"ff");
 
 	}	
 	
